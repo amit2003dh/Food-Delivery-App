@@ -6,7 +6,7 @@ This is a full-stack food delivery application with separate admin and user inte
 
 You can explore the different parts of the project at the following links:
 
-- **Frontend:** [Food Delivery App Frontend](https://food-delivery-app-frontend-196z.onrender.com)  
+- **Frontend:** [Food Delivery App Frontend](https://food-delivery-app-blond-xi.vercel.app/)  
 - **Admin Panel:** [Food Delivery App Admin](https://food-delivery-app-admin-tar4.onrender.com)  
 - **Backend API:** [Food Delivery App Backend](https://food-delivery-app-backend-066k.onrender.com)  
 
