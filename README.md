@@ -108,10 +108,8 @@ See [`backend/.env.example`](backend/.env.example) for required environment vari
 
 - React, Vite
 - Node.js, Express
-- MongoDB, Mongoose
-- Stripe API
+- MongoDB
 - JWT Authentication
-- Multer (file uploads)
 
 ## License
 For any questions or issues, please open an issue on [GitHub](https://github.com/amit2003dh/Food-Delivery-App-main).
